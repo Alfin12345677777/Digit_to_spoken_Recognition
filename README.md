@@ -1,2 +1,2 @@
-# Digit_to_spoken_Recognition
-This is an repository for Digit to spoken recognition AI model, consisting of CNN and also AlexNet model that users can write the digit and recognize and say the number.
+# Ai_vision_Final_project_repo
+this repository contains the models, app that is used to write the digit, and the image proccesing file

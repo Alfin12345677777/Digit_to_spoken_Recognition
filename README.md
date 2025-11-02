@@ -1,7 +1,3 @@
-Perfect 👌 — here’s a clean, professional, and Markdown-formatted version of your README.md with your full project description and the added instruction about downloading the model using download_model.py.
-
-You can copy and paste this directly into your repo root.
-
 🧠 Conversion of Handwritten Recognition to Voice Recognition
 
 Authors:
